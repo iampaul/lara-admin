@@ -1,0 +1,11 @@
+2010-05-25 Release of iBrowser 3.1.0 for xarTinyMCE
+- Updated with latest code
+- Fixed to work with the xarTinyMCE 3.x series
+- adjusted for xarTinyMCE plugin configurations
+- Fixed for php 5.3.x
+- Adjust to work with Firefox, Chrome, Safari
+
+------------------------------------
+2008-07-11 Release of iBrowser 1.5.0 for xarTinyMCE
+-- updated latest code
+- Fixed to work with xarTinyMCE 1.5.x branch
